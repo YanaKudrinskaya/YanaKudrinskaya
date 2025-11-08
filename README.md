@@ -17,8 +17,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Koin](https://img.shields.io/badge/Koin-F68D2B?style=for-the-badge&logo=di&logoColor=white)
-![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flow](https://img.shields.io/badge/Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines_Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 **Языки:** Kotlin · Java  
 **Data:** Retrofit2 · GSON  
