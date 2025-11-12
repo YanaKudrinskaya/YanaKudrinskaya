@@ -18,6 +18,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Koin](https://img.shields.io/badge/Koin-F68D2B?style=for-the-badge&logo=di&logoColor=white)
 ![Coroutines](https://img.shields.io/badge/Coroutines_Flow-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Hilt](https://img.shields.io/badge/Dagger_Hilt-4CAF50?style=for-the-badge&logo=dagger&logoColor=white)
 
 **Языки:** Kotlin · Java  
 **Data:** Retrofit2 · GSON  
